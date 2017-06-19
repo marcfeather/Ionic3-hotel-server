@@ -2,6 +2,8 @@
 This repository is the server part of the Ionic 3 application to book rooms.
 Is a NodeJS server that connects to a Mongo database. Uses Express to manage the requests.
 
+https://david-dm.org/dnchia/Ionic3-hotel-server.svg
+
 ## How to use it
 With NodeJS installed, use: `node server.js`
 
